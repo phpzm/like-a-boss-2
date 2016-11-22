@@ -1,0 +1,2 @@
+# like-a-boss-2
+A maioria dos projetos PHP conectam-se a bancos de dados e a grande maioria desses bancos é MySQL. Indiferente ao gerenciador de banco de dados se ele tiver uma interface para receber comandos SQL teremos uma grande quantidade de comandos que são comum a todos eles. Por isso podemos pensar a nossa aplicação como estando relacionada a um banco relacional e não exclusivamente a um banco de dados específico.
